@@ -1,0 +1,17 @@
+.dashboardbg{
+    height: 90vh;
+    background-image: url("images/dishbgimage.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+.imagecontent{
+    position: absolute;
+    top : 30%;
+    left:10%;
+    width: 30%;
+
+}
+
